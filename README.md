@@ -32,11 +32,11 @@ ResNet56 on Cifar-10
 Please cite our paper in your publications if it helps your research.
 ```bash
 @article{Jordao::2020,
-  author    = {Artur Jordao,
+author    = {Artur Jordao,
 Maiko Lie and
 William Robson Schwartz},
-  title     = {Discriminative Layer Pruning for Convolutional Neural Networks},
-  journal   = {IEEE Journal of Selected Topics in Signal Processing},
-  year      = {2020},
+title     = {Discriminative Layer Pruning for Convolutional Neural Networks},
+journal   = {IEEE Journal of Selected Topics in Signal Processing},
+year      = {2020},
 }
 ```
