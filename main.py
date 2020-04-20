@@ -227,7 +227,7 @@ if __name__ == '__main__':
     cnn_model.compile(loss='categorical_crossentropy',
                       optimizer=sgd, metrics=['accuracy'])
 
-    for ep in range(1, 1):
+    for ep in range(1, 200):
 
         x_tmp = np.concatenate((data_augmentation(x_train),
                                 data_augmentation(x_train),
